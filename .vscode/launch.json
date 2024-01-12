@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Methode6",
+      "request": "launch",
+      "mainClass": "Methode6",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "methode4Average",
+      "request": "launch",
+      "mainClass": "methode4Average",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Methode11",
+      "request": "launch",
+      "mainClass": "Methode11",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
       "name": "Test1",
       "request": "launch",
       "mainClass": "Test1",
