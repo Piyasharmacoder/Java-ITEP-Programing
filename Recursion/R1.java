@@ -1,7 +1,7 @@
 
 // print number from 5to 1 
 public class R1 {
-    // function banya
+    // function banya// yaa methode  
     public static void printnumber(int n) {
         // base case
         if (n == 0) {

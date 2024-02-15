@@ -3,6 +3,7 @@
 import java.util.Scanner;
 
 public class R2 { 
+    // create a methode or function
     public static int calculatefactorial ( int n){
         // base case 
         if ( n==1 || n==0){

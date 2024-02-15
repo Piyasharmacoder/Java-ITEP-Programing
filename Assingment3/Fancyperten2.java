@@ -17,7 +17,7 @@ public class Fancyperten2 {
         System.out.println();
     }
     // shrinking phase 
-    int sp= c-n3ew3;
+    int sp= count-n;
     for( int i=1; i<=n; i++){
         for( int j=n; j>=i; j--){
           System.out.print(sp);

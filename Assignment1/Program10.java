@@ -6,3 +6,4 @@ class Cylinder {
         volume= 22/7*r*r*h;
         System.out.println(" volume of cylinder:" +volume);
     }
+}

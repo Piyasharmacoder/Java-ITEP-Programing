@@ -3,6 +3,307 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Tricky12",
+      "request": "launch",
+      "mainClass": "Trickyprogma.Tricky12",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Arraynew3",
+      "request": "launch",
+      "mainClass": "Arraynew3",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "SortArray",
+      "request": "launch",
+      "mainClass": "SortArray",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Arrayspro10",
+      "request": "launch",
+      "mainClass": "Arrayspro10",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Arraynew2",
+      "request": "launch",
+      "mainClass": "Arraynew2",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Array2D",
+      "request": "launch",
+      "mainClass": "Array2D",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Arraynew",
+      "request": "launch",
+      "mainClass": "Arraynew",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Array7",
+      "request": "launch",
+      "mainClass": "Array7",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Array3",
+      "request": "launch",
+      "mainClass": "Array3",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "ATMachine2",
+      "request": "launch",
+      "mainClass": "MiniProjectjava.ATMachine2",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Tdemo7",
+      "request": "launch",
+      "mainClass": "Assingment4.Tdemo7",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Test5",
+      "request": "launch",
+      "mainClass": "Assingment4.Test5",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Test6",
+      "request": "launch",
+      "mainClass": "Assingment4.Test6",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "R3",
+      "request": "launch",
+      "mainClass": "R3",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Cylinder",
+      "request": "launch",
+      "mainClass": "Assignment1.Cylinder",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Program18",
+      "request": "launch",
+      "mainClass": "Assignment1.Program18",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "prten4",
+      "request": "launch",
+      "mainClass": "Assingment3.prten4",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "prten3",
+      "request": "launch",
+      "mainClass": "Assingment3.prten3",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "prten2",
+      "request": "launch",
+      "mainClass": "Assingment3.prten2",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Pertn1",
+      "request": "launch",
+      "mainClass": "Assingment3.Pertn1",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "NumericalPrten1",
+      "request": "launch",
+      "mainClass": "Assingment3.NumericalPrten1",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Invertfulpyrmid",
+      "request": "launch",
+      "mainClass": "Assingment3.Invertfulpyrmid",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Impsquprten",
+      "request": "launch",
+      "mainClass": "Assingment3.Impsquprten",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "IMPertn",
+      "request": "launch",
+      "mainClass": "Assingment3.IMPertn",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "IMPerten2",
+      "request": "launch",
+      "mainClass": "Assingment3.IMPerten2",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "IMPerten",
+      "request": "launch",
+      "mainClass": "Assingment3.IMPerten",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "HeloSquarPrtn",
+      "request": "launch",
+      "mainClass": "Assingment3.HeloSquarPrtn",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "FullPyramid",
+      "request": "launch",
+      "mainClass": "Assingment3.FullPyramid",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Fancyperten2",
+      "request": "launch",
+      "mainClass": "Assingment3.Fancyperten2",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Fancyperten",
+      "request": "launch",
+      "mainClass": "Assingment3.Fancyperten",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Numbergesinggame",
+      "request": "launch",
+      "mainClass": "MiniProjectjava.Numbergesinggame",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "MethodeDemo14",
+      "request": "launch",
+      "mainClass": "MethodeDemo14",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Methodenew13",
+      "request": "launch",
+      "mainClass": "Methodenew13",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Mthode1",
+      "request": "launch",
+      "mainClass": "Mthode1",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "T11",
+      "request": "launch",
+      "mainClass": "Trickyprogma.T11",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Tricky13",
+      "request": "launch",
+      "mainClass": "Trickyprogma.Tricky13",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Tricky11",
+      "request": "launch",
+      "mainClass": "Trickyprogma.Tricky11",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Assi1",
+      "request": "launch",
+      "mainClass": "Basicprogram.operators.AssigbmentOperator.Assi1",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Code2",
+      "request": "launch",
+      "mainClass": "Basicprogram.Code2",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Operators1",
+      "request": "launch",
+      "mainClass": "Basicprogram.operators.Airthmetical.Operators1",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Operatorexmple",
+      "request": "launch",
+      "mainClass": "Basicprogram.operators.Airthmetical.Operatorexmple",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "T10triky",
+      "request": "launch",
+      "mainClass": "Trickyprogma.T10triky",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "T10",
+      "request": "launch",
+      "mainClass": "Trickyprogma.T10",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
       "name": "Methode6",
       "request": "launch",
       "mainClass": "Methode6",

@@ -4,7 +4,7 @@
 public class Array7 {
     void maxOfArray() {
         int[] arr = { 10, 4, 5, 6, 38, 9, 1 };
-        int ans = 0;
+        int ans =0;
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] > ans) {
                 ans = arr[i];
