@@ -6,11 +6,12 @@ public class Progmse9 {
         Scanner Sc = new Scanner( System .in );
         System.out.print(" Enter the number :");
         int n = Sc.nextInt();
-       // int sum=0;
-        for(  int i=1; i<=n ; i++){  // int sq=i*i-1;
-          //  sum=sum+i*i-1;        // sum =sum+sq;
+
+       int sum=0;
+        for(  int i=1; i<=n ; i++){   // int sq=i*i-1;
+             sum=sum+i*i-1;          // sum =sum+sq;
             System.out.print(i*i-1 +" + ");
         }
-       // System.out.println("\nSum of the serise = "+ sum );
+       System.out.println("\nSum of the serise = "  + sum );
     } 
 }

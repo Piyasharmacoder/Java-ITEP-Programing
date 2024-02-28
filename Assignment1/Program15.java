@@ -2,7 +2,7 @@
 package Assignment1;
 
 import java.util.Scanner;
-
+// cheak string is lowercase or upper case 
 public class Program15 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

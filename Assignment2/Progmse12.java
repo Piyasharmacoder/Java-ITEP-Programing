@@ -14,7 +14,7 @@ public class Progmse12 {
         System.out.println("\nSum of the serise = "+ sum );
     }*/
 
-//------------------------- wap to print sum of the seris  1/2+ 1/9+ 1/28 + 1/65 ----------------------------------------1/n trem--------//
+//------------------------- wap to print sum of t   he seris  1/2+ 1/9+ 1/28 + 1/65 ----------------------------------------1/n trem--------//
 
 public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

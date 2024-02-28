@@ -11,7 +11,7 @@ public class Progmse15 {
             sum= sum+i;
           System.out.println( i);
         }
-        System.out.println(" Sum" + sum);
+        System.out.println(" Sum = " + sum);
          if ( sum==n)
         System.out.println(" yes ");
         else

@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Program20 {
     public static void main ( String [] args ){
         Scanner sc = new Scanner ( System.in );
-        System.out.print( " enter the no: ");
+        System.out.print( " enter the value of n: ");
         int n= sc.nextInt();
         int i ;
       //  while( i<2*n){

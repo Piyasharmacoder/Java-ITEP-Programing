@@ -1,6 +1,7 @@
 package Assignment1;
 
 import java.util.Scanner;
+// WAP to convert lowercase into uppercase 
 
 public class Program14 {
     public static void main(String[] args) {

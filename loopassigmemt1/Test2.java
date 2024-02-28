@@ -12,9 +12,9 @@ public class Test2 {
         for ( int i= 1; i<=n; i++ ){ 
             sum =sum + i;
 
-          System.out.print(i);
+          System.out.print( " "+i);
     }
-         System.out.println("\n sum of natural no =" + sum );
+         System.out.println("\n sum of natural no = " + sum );
         
     }
 

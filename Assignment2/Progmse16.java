@@ -13,7 +13,7 @@ public class Progmse16 {
             System.out.print(i + " + ") ;
             sum =sum +i;
         }
-        System.out.println( " Sum of the serise  " + sum  );
+        System.out.println( " \nSum of the serise  =  " + sum  );
     } 
     
 }

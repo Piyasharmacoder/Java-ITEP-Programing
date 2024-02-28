@@ -5,12 +5,12 @@ public class Progmse13 {
         Scanner sc = new Scanner(System.in);
         System.out.print(" Enter the number : ");
         int n = sc.nextInt();
-       //double sum =0;
+       double sum =0;
         for (int i = 1; i<= n; i=i+2 ) {
-       // sum =sum +( i/( i+1));
-       System.out.println(  i  );
+       sum =sum +( i/( i+1));
+      //  System.out.println(  i  );
         }
-      // System.out.println("\nSum of the serise = "+ sum );
+      System.out.println("\nSum of the serise = "+ sum );
     }
     
 }

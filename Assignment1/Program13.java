@@ -1,5 +1,5 @@
 package Assignment1;
-
+//WAP to print String upper case to lower case 
 import java.util.Scanner;
 
 class Program13 {

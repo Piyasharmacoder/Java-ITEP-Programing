@@ -3,6 +3,377 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StringQleecode",
+      "request": "launch",
+      "mainClass": "StringINjava.StringQleecode",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Stringtest",
+      "request": "launch",
+      "mainClass": "StringINjava.Stringtest",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "StringBufferpro1",
+      "request": "launch",
+      "mainClass": "StringINjava.StringBufferpro1",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "ReverStringQ",
+      "request": "launch",
+      "mainClass": "StringINjava.ReverStringQ",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "StringQ18",
+      "request": "launch",
+      "mainClass": "StringINjava.StringQ18",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "StringQ17",
+      "request": "launch",
+      "mainClass": "StringINjava.StringQ17",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "BuliderStringQ1",
+      "request": "launch",
+      "mainClass": "StringINjava.BuliderStringQ1",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "BuilderString3",
+      "request": "launch",
+      "mainClass": "StringINjava.BuilderString3",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "BuliderString2",
+      "request": "launch",
+      "mainClass": "StringINjava.BuliderString2",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "BuilderString1",
+      "request": "launch",
+      "mainClass": "StringINjava.BuilderString1",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Stringbuilider2",
+      "request": "launch",
+      "mainClass": "StringINjava.StringBuilder.Stringbuilider2",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "AddString17",
+      "request": "launch",
+      "mainClass": "StringINjava.AddString17",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "SubString16",
+      "request": "launch",
+      "mainClass": "StringINjava.SubString16",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "StringSub14",
+      "request": "launch",
+      "mainClass": "StringINjava.StringSub14",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "String13",
+      "request": "launch",
+      "mainClass": "StringINjava.String13",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "String12",
+      "request": "launch",
+      "mainClass": "StringINjava.String12",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "String9",
+      "request": "launch",
+      "mainClass": "StringINjava.String9",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "String10",
+      "request": "launch",
+      "mainClass": "StringINjava.String10",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "String",
+      "request": "launch",
+      "mainClass": "StringINjava.String",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "String8",
+      "request": "launch",
+      "mainClass": "StringINjava.String8",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "String7",
+      "request": "launch",
+      "mainClass": "StringINjava.String7",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "String6",
+      "request": "launch",
+      "mainClass": "StringINjava.String6",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "StringComparion",
+      "request": "launch",
+      "mainClass": "StringINjava.StringComparion",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "String5",
+      "request": "launch",
+      "mainClass": "StringINjava.String5",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "String4",
+      "request": "launch",
+      "mainClass": "StringINjava.String4",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "StringUser",
+      "request": "launch",
+      "mainClass": "StringINjava.StringUser",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "String3",
+      "request": "launch",
+      "mainClass": "StringINjava.String3",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "String2",
+      "request": "launch",
+      "mainClass": "StringINjava.String2",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "String1",
+      "request": "launch",
+      "mainClass": "StringINjava.String1",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Test4",
+      "request": "launch",
+      "mainClass": "Test4",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Test3",
+      "request": "launch",
+      "mainClass": "Test3",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Test2",
+      "request": "launch",
+      "mainClass": "Test2",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Back1",
+      "request": "launch",
+      "mainClass": "Backtracking.Back1",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Progmse19",
+      "request": "launch",
+      "mainClass": "Progmse19",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Progmse18",
+      "request": "launch",
+      "mainClass": "Progmse18",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Progmse17",
+      "request": "launch",
+      "mainClass": "Progmse17",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Progmse16",
+      "request": "launch",
+      "mainClass": "Progmse16",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Progmse15",
+      "request": "launch",
+      "mainClass": "Progmse15",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Progmse14",
+      "request": "launch",
+      "mainClass": "Progmse14",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Progmse13",
+      "request": "launch",
+      "mainClass": "Progmse13",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Progmse12",
+      "request": "launch",
+      "mainClass": "Progmse12",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Progmse11",
+      "request": "launch",
+      "mainClass": "Progmse11",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Progmse10",
+      "request": "launch",
+      "mainClass": "Progmse10",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Progmse9",
+      "request": "launch",
+      "mainClass": "Progmse9",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Progmse8",
+      "request": "launch",
+      "mainClass": "Progmse8",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Progm3",
+      "request": "launch",
+      "mainClass": "Progm3",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Program20",
+      "request": "launch",
+      "mainClass": "Assignment1.Program20",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Program17",
+      "request": "launch",
+      "mainClass": "Assignment1.Program17",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Program16",
+      "request": "launch",
+      "mainClass": "Assignment1.Program16",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Program15",
+      "request": "launch",
+      "mainClass": "Assignment1.Program15",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "PrintfMethod",
+      "request": "launch",
+      "mainClass": "Assignment1.PrintfMethod",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Array12",
+      "request": "launch",
+      "mainClass": "Array12",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Arraynew11",
+      "request": "launch",
+      "mainClass": "Arraynew11",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
       "name": "Tricky12",
       "request": "launch",
       "mainClass": "Trickyprogma.Tricky12",

@@ -5,16 +5,17 @@ import java.util.Scanner;
 
 public class Progmse8 {
     public static void main(String args[]) {
-        Scanner Sc = new Scanner(System.in); 
+        Scanner Sc = new Scanner(System.in);
         System.out.print(" Enter the number :");
         int n = Sc.nextInt();
-       // int sum = 0;
-        for (int i = 1; i <= n; i++) {   // int cube=i*i*i;
-           // sum = sum + i * i * i;     // sum =sum+cube;
-            // System.out.println(Math.pow( i,3));
-        System.out.print(i * i * i + " +");
+        int sum = 0;
+        for (int i = 1; i <= n; i++) {    // int cube=i*i*i;
+            sum = sum + i * i * i;     // sum =sum+cube;
+            System.out.println(Math.pow(i, 3));
+
+            // System.out.print(i * i * i + " +" );
         }
-       // System.out.println("\nSum of the serise =  " + sum);
+        System.out.println("\nSum of the serise =  " + sum);
     }
 
 }
