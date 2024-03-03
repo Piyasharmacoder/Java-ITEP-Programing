@@ -25,7 +25,9 @@ class Program8 {
    */
   // ---------------------------------------------------------------------------------------------------//
 
+
   // 2) swap two number withouth using third variables----//
+
  /*   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     System.out.print("Enter the value of  X and y : ");
@@ -34,14 +36,14 @@ class Program8 {
     System.out.println("Before swapping No :" + X + " , " + y);
     X = X + y;
     y = X - y;
-    X = X - y;
+    X = X - y; 
     System.out.println("After swapping :" + X + "  , " + y);
     System.out.println();
   }*/
 
   //--------------------------------------------------------------------------------------------------//
 
-  // 3)  wap to swap two number without third variables//
+  // 3)  wap to swap two number without third variables type 3//
 /*   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     System.out.print("Enter the value of  X and y : ");
@@ -56,7 +58,7 @@ class Program8 {
   }*/
 
   //-----------------------------------------------------------------------------------------------//
-  // 4) wap two swap two number without using thrid variable and arithmatic + - * / opreators--//
+  // 4) wap two swap two number without using thrid variable and arithmatic + - * / opreators-- type 4//
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     System.out.print("Enter the value of  X and y : ");

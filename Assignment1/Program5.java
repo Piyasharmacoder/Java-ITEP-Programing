@@ -20,7 +20,7 @@ class Program5 {
         int P = sc.nextInt();
         double add = H + E + M + C + P;
 
-        System.out.println("Tottal NO of  : " + add);
+        System.out.println("\nTottal NO of  : " + add);
         double parcentage = (add / 500) * 100;
         System.out.println("parcentage    :" + parcentage);
         String division = (60 <= parcentage) ? "First Division"

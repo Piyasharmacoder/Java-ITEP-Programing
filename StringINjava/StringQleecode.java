@@ -4,6 +4,7 @@ package StringINjava;
 // replaced with the character and followed by  the number  of  consencutive duplicate.
 // input --> aaabbbbccddde
 //output --> a3b4c2d3e
+// find the fycuncy
 public class StringQleecode {
     public static void main(String[] args) {
         String str = "aaabbbbccdddeeef";

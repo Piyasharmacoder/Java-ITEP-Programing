@@ -3,6 +3,321 @@
   "configurations": [
     {
       "type": "java",
+      "name": "R1",
+      "request": "launch",
+      "mainClass": "RegularExpression.R1",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Contional_prog_traingle2",
+      "request": "launch",
+      "mainClass": "Contional_prog_traingle2",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Conditional4",
+      "request": "launch",
+      "mainClass": "Conditional4",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Progrma24",
+      "request": "launch",
+      "mainClass": "Assignment1.Progrma24",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "String24",
+      "request": "launch",
+      "mainClass": "StringINjava.String24",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "StudentClass",
+      "request": "launch",
+      "mainClass": "ClassInJava.StudentClass",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Program5",
+      "request": "launch",
+      "mainClass": "Assignment1.Program5",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Program3",
+      "request": "launch",
+      "mainClass": "Assignment1.Program3",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Program2",
+      "request": "launch",
+      "mainClass": "Assignment1.Program2",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Conditionla_prog",
+      "request": "launch",
+      "mainClass": "Conditionla_prog",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Contional_prog_traingle",
+      "request": "launch",
+      "mainClass": "Contional_prog_traingle",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Contional_Even_prog",
+      "request": "launch",
+      "mainClass": "Contional_Even_prog",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Conditional_Pro",
+      "request": "launch",
+      "mainClass": "Conditional_Pro",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Program21",
+      "request": "launch",
+      "mainClass": "Assignment1.Program21",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "FindFrequencyofArr",
+      "request": "launch",
+      "mainClass": "FindFrequencyofArr",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "FindFrequencyofArr",
+      "request": "launch",
+      "mainClass": "StringINjava.FindFrequencyofArr",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "ArrayEqule",
+      "request": "launch",
+      "mainClass": "ArrayEqule",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Arrayclonemethode",
+      "request": "launch",
+      "mainClass": "Arrayclonemethode",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "ArrayCopy",
+      "request": "launch",
+      "mainClass": "ArrayCopy",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "ArrayMethod",
+      "request": "launch",
+      "mainClass": "ArrayMethod",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Array23",
+      "request": "launch",
+      "mainClass": "Array23",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Arra22",
+      "request": "launch",
+      "mainClass": "Arra22",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Array21",
+      "request": "launch",
+      "mainClass": "Array21",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Array20Swaping",
+      "request": "launch",
+      "mainClass": "Array20Swaping",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Arraj20",
+      "request": "launch",
+      "mainClass": "Arraj20",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Array19",
+      "request": "launch",
+      "mainClass": "Array19",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Array18",
+      "request": "launch",
+      "mainClass": "Array18",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "ArrayuseForechlop",
+      "request": "launch",
+      "mainClass": "ArrayuseForechlop",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Array17",
+      "request": "launch",
+      "mainClass": "Array17",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "A1",
+      "request": "launch",
+      "mainClass": "A1",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Array1",
+      "request": "launch",
+      "mainClass": "Array1",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "ArrayEvanorOdd",
+      "request": "launch",
+      "mainClass": "ArrayEvanorOdd",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "SubArrayprint",
+      "request": "launch",
+      "mainClass": "SubArrayprint",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Array15",
+      "request": "launch",
+      "mainClass": "Array15",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Continu",
+      "request": "launch",
+      "mainClass": "BerakCountiun.Continu",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Break_Conti1",
+      "request": "launch",
+      "mainClass": "BerakCountiun.Break_Conti1",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "StringQue20",
+      "request": "launch",
+      "mainClass": "StringINjava.StringQue20",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "StringQues19",
+      "request": "launch",
+      "mainClass": "StringINjava.StringQues19",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "String11",
+      "request": "launch",
+      "mainClass": "StringINjava.String11",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "BankAccount_demo",
+      "request": "launch",
+      "mainClass": "MiniProjectjava.BankAccount_demo",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Bank_Driver",
+      "request": "launch",
+      "mainClass": "MiniProjectjava.Bank_Driver",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Investment_earingpro",
+      "request": "launch",
+      "mainClass": "MiniProjectjava.Investment_earingpro",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Wapper_class2",
+      "request": "launch",
+      "mainClass": "Demo_WapperClass.Wapper_class2",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "Wapper_Class1",
+      "request": "launch",
+      "mainClass": "Demo_WapperClass.Wapper_Class1",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
+      "name": "PROaccesmodifer1",
+      "request": "launch",
+      "mainClass": "AccessModiferfloder.PROaccesmodifer1",
+      "projectName": "ITEP_9521eb49"
+    },
+    {
+      "type": "java",
       "name": "StringQleecode",
       "request": "launch",
       "mainClass": "StringINjava.StringQleecode",

@@ -18,6 +18,7 @@ public class Arraynew {
         }
 
         System.out.println(" --------------------Approch-2------------------------");
+        // for eachl loop
         for (String name : names) {
             System.out.println(name);
 
