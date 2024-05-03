@@ -1,0 +1,54 @@
+package com.shapes;
+
+class rectangle{
+    private int length;
+    private int breadth;
+
+    public int getLength() {
+        return length;
+    }
+    public void setLength(int length) {
+        this.length = length;
+    }
+    public int getBreadth() {
+        return breadth;
+    }
+    public void setBreadth(int breadth) {
+        this.breadth = breadth;
+    }
+    public int area(){
+        return length * breadth;
+    }
+}
+ class Square{
+
+  private int side ;
+  public  int getside(){
+  return side;
+  } 
+  
+  public void setside(int a){
+  this.side = a 
+  }
+   
+  public int Area(){
+   return a*a*a*a
+  }
+ }
+
+public class main{
+  public static void main(String[] args){
+   rectangle rec = new rectangle();
+        rec.setLength(10);
+        rec.setBreadth(20);
+        System.out.println("Area of Rectangle : "+rec.area());
+
+   Square sq = new Square();
+         sq.setside(5);
+         System.out.println("Area of Square :" +sq.Area());
+ 
+
+}
+
+}
+

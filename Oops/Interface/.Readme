@@ -1,0 +1,18 @@
+  *WHY USE  JAVA INTERFACE..?
+
+ 1. interface is used to achive 100% abstraction 
+ 2. interface are Supports mulitple inheritance
+ 3. it can be used achive loose coupling
+ 4. interface ke ander sare veriables  public static final  type ke honge  by default 
+ exmple =>   public static final int   a = 10
+
+
+ WHAT IS  INTERFACE? 
+   
+   1. interface is a mechanism to achive abstraction in java 
+   2. Interface is similar too abstract class but  having  all the of abstract type i.e : it cannot have a methode body 
+   3. Since  java 8, we can have  default and static final methode in an interface .
+   4. Since java9, we can have private methode  in an  interface.
+    
+
+ 

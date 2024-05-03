@@ -1,0 +1,24 @@
+1. String = String is non-primitive data type 
+
+2. ** String size  or length is not fixed in java
+
+3. String  is the Sequence  of characters  'Or' String is  an array of characters.
+for example -: char [] c ={'p', 'i', 'y', 'a'};  //array of characters
+String s = new String(c);
+is same as String s = "piya";
+ 
+4.  Now String is a class
+
+5. why string class is final
+
+6. we can create String class object by -: String  s = new String(); it  will create an Immutable object.
+
+7. to create String  there are 3 classes
+    1.string  2.StringBuffer  3.StringBuiler
+
+8. String Constant Pool was present in methode Area until 1.6 version but after 1.6 version it was shifted to Heap Area. 
+ye esliye kiyagaya taki wo apna size increase or decrease kr paye 
+
+9. String Constant Pool is special memory location  now  present in Heap Area which is used to store String literals object.
+
+

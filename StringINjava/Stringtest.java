@@ -1,5 +1,6 @@
 package StringINjava;
-// Performance Test of String and StringBuffer
+
+// Performance Test of String and StringBuffer 
 
 public class Stringtest {
  
@@ -26,3 +27,6 @@ public class Stringtest {
         System.out.println("Time taken by Concating with  StringBuffer: "+(System.currentTimeMillis()-startTime)+"ms");  
     }  
 }  
+
+
+

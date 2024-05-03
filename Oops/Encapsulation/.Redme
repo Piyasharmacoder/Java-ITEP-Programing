@@ -1,0 +1,5 @@
+Encapsulation  = 
+
+Step to Achive Encapsulation
+1. Declear the variables of a class as private.
+2. provide public setter and getter methods to modify and view the variables values.

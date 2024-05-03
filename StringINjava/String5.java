@@ -4,7 +4,7 @@ package StringINjava;
 // using name.length methode 
 public class String5 {
     public static void main(String[] args) {
-        String name = "Raj";
+        String name = "priyanka";
         int value = name.length();
         System.out.print(" length of string : " + value);
 

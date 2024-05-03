@@ -8,12 +8,12 @@ public class R1 {
             Scanner sc = new Scanner(System.in);
             System.out.print("Enter a Name : ");
             String name = sc.nextLine();
-            if (name.matches("^[a-zA-Z0-9@./() ]+$")) {
+            if (name.matches("^[a-zA-Z ]{2,20}+$")) {
                 System.out.println("name is vaild");
             } else
                 System.out.println("name is  not valid ");
 
         }
-    }
+    } 
 
 }

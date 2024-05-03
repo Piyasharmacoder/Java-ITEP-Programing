@@ -1,4 +1,5 @@
 package StringINjava;
+
 // function or method of indexof 
 
 public class String6 { 

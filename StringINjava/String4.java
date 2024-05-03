@@ -1,4 +1,5 @@
 package StringINjava;
+
 //immutable string exmple immutable means unchangeable or unmodifiable
 
 public class String4 {

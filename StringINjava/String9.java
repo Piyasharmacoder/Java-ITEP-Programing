@@ -1,5 +1,7 @@
 package StringINjava;
 // 2) String Concatenation by concat() method
+// contcat (string str )methode  concatentes one  string to the end of another string . 
+// This methode  return a string with the  value  of the  string passsed into the methode , appended to the end of the string . 
 
 public class String9 {
     public static void main(String[] args) {

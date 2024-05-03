@@ -24,7 +24,6 @@ class Demo1 { // outer class
             Demo1 demo2 = new Demo1();
             Demo1.fun2();
             System.out.println(Demo1.Demo2.country);
-
         }
 
     }

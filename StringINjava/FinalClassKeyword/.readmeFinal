@@ -1,0 +1,6 @@
+1.final  class cannot be extend 
+
+2.final method cannot be overridden
+
+3.final  is keyword  used with  class , method and variable but immutability is the concept used for  object  in  which  object  state  and concat cannotbe chaged in.
+

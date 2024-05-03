@@ -1,0 +1,16 @@
+Abstract means  = khayali pulawo yaa imgination 
+Abstract in english -> Existring in thought or as an idea without concreate existence
+
+ Abstact Methode ->  A methode  that is delecleard  without an implementation
+                                 "or"
+  A Abstact without body(no implementation)is know as abstract methode
+
+                   Abstact void moveto ( );
+                   
+                
+
+Abstact class->  if  a class includes abstract methode , then the class itself must be delecleard abstract ,as  in 
+
+Abstraction = > Abstract is  hinding internal implementation and just highlightliting  the sat up  service that we are offering 
+ 
+Abstact class ka object create nai krwwa sakte only bas reference create kr skte hai .
