@@ -1,4 +1,4 @@
- /* WAP to find the smallest numbers  */
+ /* WAP to find the smallest numbers   using ternary oprator*/
 
  package Assignment1;
 

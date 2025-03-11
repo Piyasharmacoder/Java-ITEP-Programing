@@ -10,9 +10,11 @@ public class A2 {
         for( int i=0; i<6; i++){
          a[i] = sc.nextInt();
         }
+        
         System.out.println(" revers number ");
-        for(int i=5;i>=0;i--){
+        for(int i=5;i>= 0;i--){
             System.out.println(a[i]);
+
         }
      }
     

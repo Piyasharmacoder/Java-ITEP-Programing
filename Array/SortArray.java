@@ -11,7 +11,7 @@ public class SortArray {
         System.out.println(" Enter the values of unsorted array: ");
         // cration of array
         int[] arr = new int[value];
-        for (int i = 0; i < value; i++) {
+        for (int i = 0; i < value; i++){
             arr[i] = sc.nextInt();
         }
 

@@ -1,5 +1,5 @@
 package Assingment3.Array;
-
+//
 public class A4 {
     public static void main(String[] args) {
         int arr[] ={ 10,20,30,40};

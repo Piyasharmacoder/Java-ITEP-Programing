@@ -1,0 +1,4 @@
+Super keyword is a refrence variable which is used to refre immediate parent class object
+ Super keyword can  be useed to  invoks immediate parent class object
+ Super () can be used to  inoke immediate parent class consturctur
+ 

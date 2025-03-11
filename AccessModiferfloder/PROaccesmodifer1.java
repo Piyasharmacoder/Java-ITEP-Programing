@@ -21,12 +21,14 @@ class C1 {
 public class PROaccesmodifer1 {
     public static void main(String[] args) {
         C1 obj = new C1();
-        // obj.math1();
-        // same packge me use ker skate yya nai 
+        obj.math1();
+        System.out.println("________________________");
+
+        // same packge me use ker skate yya nai
         System.out.println(obj.x);
         System.out.println(obj.y);
         System.out.println(obj.r);
-        // System.out.println(obj.z); // only private same packges me use nai kr sakte 
+        //System.out.println(obj.z); // only private same packges me use nai kr sakte
 
     }
 

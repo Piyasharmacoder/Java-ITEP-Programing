@@ -11,7 +11,7 @@ public class Array8 {
         }
         if (ans == -1) {
             System.out.print(" NOt found ");
-        } else {
+        }  else {
             System.out.print(" Found " + X + " At index " + ans);
         }
 

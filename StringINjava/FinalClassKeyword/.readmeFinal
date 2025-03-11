@@ -2,5 +2,9 @@
 
 2.final method cannot be overridden
 
-3.final  is keyword  used with  class , method and variable but immutability is the concept used for  object  in  which  object  state  and concat cannotbe chaged in.
+3.final  is keyword  used with  class , method and variable but immutability is the concept used for 
+  object  in  which  object  state  and concat cannotbe chaged in.
 
+4.final variable of a class cannot be changed
+5.final class cannot be inherited
+6.final method can be inherited

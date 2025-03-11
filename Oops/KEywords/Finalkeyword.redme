@@ -1,0 +1,8 @@
+ Final keyword  :- final kwy word ka used  hum variables ke saathckr skte hai 
+ then methode ke saath or class ke saath  use kresakte haai hum final keyword ka
+
+ if we create a any final variable it becomes constant we cannot change the value of final variable 
+
+ if we create a any final methode , we cannot override  it .
+
+ if we create a any final class `, we cannot  extend it or inherit it

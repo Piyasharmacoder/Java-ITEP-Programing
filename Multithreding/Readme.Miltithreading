@@ -1,0 +1,22 @@
+Executing  multiple  thread (Thread means sub-processes , small tasks )at sinale amd same time 
+
+process = A program which is excuting state 
+
+Thread =: Thread operation
+1. Thread  class provide  methods to perfrom  any operations with thread.
+2.  this Thread class is present  in java .lang package. so we don't need to import this package 
+3. Some important  methods to get Thread
+   1. public string getName()- returns the name of the Thread ( kisi bhi thread ka name get krne ke liye )
+   2. public void setName()- sets the name of the Thread ( kisi bhi thread ka name set krne ke liye )
+   3. public void run() - contain the tasks of the Thread ( run methode ke ander hum task difine kater hai  thread ke liye or wo wahi task chalata hai )
+   4. public void start() - starts Thread by allocating resources.(start methode ko call krne ke baad humra thread start ho jata hai)
+   5. public void stop() - 
+   6  public long getId()- returns the id of the Thread (thread id fine krne ke liye getId() methode ka use krte hai )
+   7. set priority()- sets the priority of the Thread
+   8. get priority() - gets the priority of the Thread
+   9. sleep() - 
+  10. join()  -
+  11. reume() -  
+
+
+

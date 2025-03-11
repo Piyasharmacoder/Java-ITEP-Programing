@@ -1,4 +1,6 @@
 package AccessModiferfloder;
+
+
 class calculater{
     public void calculate(int x, int y){
         System.out.println("Your result is  : " + x +y);
@@ -43,14 +45,17 @@ public class Problem1calci {
         System.out.println("im a main class :  ");
         calculater calc = new calculater();
         calc.calculate(10, 20);
+
         Scientificalculater sci = new Scientificalculater();
         sci.calculate(10, 20);
+
         MyCalculator mycalc = new MyCalculator();
         mycalc.calculate(10, 20);
+
         rectangle rec = new rectangle();
         rec.setLength(10);
         rec.setBreadth(20);
-        System.out.println(rec.area());
+        System.out.println("Area of rectangale : "+rec.area());
 
     }
     

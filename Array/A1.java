@@ -16,7 +16,7 @@ public class A1 {
         }
         System.out.print("positive number : ");
         for (int i = 0; i < 20; i++) {
-            if (a[i] > 0)
+            if (a[i] > 0) 
                 System.out.print(a[i] + " ");
         }
         System.out.println();

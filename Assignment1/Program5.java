@@ -27,7 +27,7 @@ class Program5 {
       : (parcentage >= 50)? "Second Division ":  (parcentage >= 33) ? "Third division" : " Fail";
         System.out.println("\n"+division);
         if( parcentage>=50){
-          System.out.println("\ncongratulation. ");
+          System.out.println("congratulation. ");
         }
         else
         System.out.println("Better luck in next time   ");

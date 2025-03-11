@@ -1,0 +1,202 @@
+Creating a use-case diagram involves defining the main actors and their interactions with the system. For the Great Ayurveda Web Application, the primary actors are:
+
+- **User**
+- **Admin**
+- **Doctor**
+
+Here’s a high-level use-case diagram description:
+
+1. **User**
+   - Register
+   - Login
+   - View Profile
+   - Edit Profile
+   - View Ayurvedic Medicines
+   - View Home Remedies
+   - View Health Tips
+   - View Exercises and Yoga
+   - Search for Information
+   - Book Doctor Consultation
+   - View Consultation Details
+
+2. **Admin**
+   - Login
+   - Manage Users
+   - Manage Ayurvedic Medicines
+   - Manage Home Remedies
+   - Manage Health Tips
+   - Manage Exercises and Yoga
+   - Manage Doctor Consultations
+   - View Dashboard
+
+3. **Doctor**
+   - Login
+   - View Consultations
+   - Update Consultation Status
+   - Provide Health Tips and Advice
+
+### Use-Case Diagram
+
+```plaintext
+                            +------------------------+
+                            |   Great Ayurveda Web   |
+                            |      Application       |
+                            +------------------------+
+                                    /       \
+                                   /         \
+                                  /           \
+                                 /             \
+                                /               \
+                               /                 \
+                              /                   \
+                             /                     \
+                            /                       \
+                           /                         \
+                          /                           \
+                +----------------+             +----------------+
+                |     User       |             |      Admin     |
+                +----------------+             +----------------+
+                         |                            |
+                         |                            |
+     +--------------------+---------+       +---------+------------------+
+     |    +-----------------------+ |       | +------------------------+ |
+     |    |    Register           | |       | |   Login                | |
+     |    +-----------------------+ |       | +------------------------+ |
+     |    |    Login              | |       | |   Manage Users         | |
+     |    +-----------------------+ |       | +------------------------+ |
+     |    |    View Profile       | |       | |   Manage Medicines     | |
+     |    +-----------------------+ |       | +------------------------+ |
+     |    |    Edit Profile       | |       | |   Manage Remedies      | |
+     |    +-----------------------+ |       | +------------------------+ |
+     |    |    View Medicines     | |       | |   Manage Health Tips   | |
+     |    +-----------------------+ |       | +------------------------+ |
+     |    |    View Remedies      | |       | |   Manage Exercises     | |
+     |    +-----------------------+ |       | +------------------------+ |
+     |    |    View Health Tips   | |       | |   Manage Consultations | |
+     |    +-----------------------+ |       | +------------------------+ |
+     |    |    View Exercises     | |       | |   View Dashboard       | |
+     |    +-----------------------+ |       | +------------------------+ |
+     |    |    Search             | |       +---------+------------------+
+     |    +-----------------------+ |                 |
+     |    |    Book Consultation  | |                 |
+     |    +-----------------------+ |                 |
+     |    |    View Consultation  | |                 |
+     |    +-----------------------+ |                 |
+     +--------------------+---------+                 |
+                         |                            |
+                         |                            |
+                    +----+----------------------------+----+
+                    |          Doctor                      |
+                    +--------------------------------------+
+                             |
+                             |
+             +---------------+----------------+
+             |  View Consultations             |
+             +---------------------------------+
+             |  Update Consultation Status     |
+             +---------------------------------+
+             |  Provide Health Tips and Advice |
+             +---------------------------------+
+```
+
+### Use-Case Description
+
+#### User Use Cases
+
+1. **Register**
+   - Description: Allows a user to create a new account.
+   - Actors: User
+
+2. **Login**
+   - Description: Allows a user to log into the application.
+   - Actors: User, Admin, Doctor
+
+3. **View Profile**
+   - Description: Allows a user to view their profile information.
+   - Actors: User
+
+4. **Edit Profile**
+   - Description: Allows a user to edit their profile information.
+   - Actors: User
+
+5. **View Ayurvedic Medicines**
+   - Description: Allows a user to browse Ayurvedic medicines.
+   - Actors: User
+
+6. **View Home Remedies**
+   - Description: Allows a user to browse home remedies.
+   - Actors: User
+
+7. **View Health Tips**
+   - Description: Allows a user to browse health tips.
+   - Actors: User
+
+8. **View Exercises and Yoga**
+   - Description: Allows a user to browse exercises and yoga routines.
+   - Actors: User
+
+9. **Search for Information**
+   - Description: Allows a user to search for specific health information.
+   - Actors: User
+
+10. **Book Doctor Consultation**
+    - Description: Allows a user to schedule a consultation with a doctor.
+    - Actors: User
+
+11. **View Consultation Details**
+    - Description: Allows a user to view details of their booked consultations.
+    - Actors: User
+
+#### Admin Use Cases
+
+1. **Login**
+   - Description: Allows an admin to log into the application.
+   - Actors: Admin
+
+2. **Manage Users**
+   - Description: Allows an admin to view, add, edit, or delete user accounts.
+   - Actors: Admin
+
+3. **Manage Ayurvedic Medicines**
+   - Description: Allows an admin to manage information about Ayurvedic medicines.
+   - Actors: Admin
+
+4. **Manage Home Remedies**
+   - Description: Allows an admin to manage information about home remedies.
+   - Actors: Admin
+
+5. **Manage Health Tips**
+   - Description: Allows an admin to manage health tips.
+   - Actors: Admin
+
+6. **Manage Exercises and Yoga**
+   - Description: Allows an admin to manage exercises and yoga routines.
+   - Actors: Admin
+
+7. **Manage Doctor Consultations**
+   - Description: Allows an admin to manage doctor consultations.
+   - Actors: Admin
+
+8. **View Dashboard**
+   - Description: Allows an admin to view an overview of the system status and activities.
+   - Actors: Admin
+
+#### Doctor Use Cases
+
+1. **Login**
+   - Description: Allows a doctor to log into the application.
+   - Actors: Doctor
+
+2. **View Consultations**
+   - Description: Allows a doctor to view scheduled consultations.
+   - Actors: Doctor
+
+3. **Update Consultation Status**
+   - Description: Allows a doctor to update the status of consultations.
+   - Actors: Doctor
+
+4. **Provide Health Tips and Advice**
+   - Description: Allows a doctor to provide health tips and advice to users.
+   - Actors: Doctor
+
+This use-case diagram and descriptions provide a clear view of the functionalities and interactions within the Great Ayurveda Web Application.

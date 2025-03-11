@@ -34,7 +34,7 @@ public class Array15 {
 
         // Display student data information
         System.out.println("\nStudent Information Table :");
-        System.out.println("\n S.no \t\tStudent Name \t\t  Roll Number \t\t  Final Marks ");
+        System.out.println("\n S.no  \t\tStudent Name  \t\tAge  \t\tRoll Number  \t\tFinal Marks ");
         for (int i = 0; i < numberOfStudents; i++) {
             System.out.println("\n " + (i + 1) + ".\t\t" + names[i] + "\t\t\t" + age[i]+"\t\t\t" +rollno[i] + "\t\t\t" + marks[i]);
 

@@ -9,12 +9,8 @@ public class Program20 {
         System.out.print( " enter the value of n: ");
         int n= sc.nextInt();
         int i ;
-      //  while( i<2*n){
-         //   System.out.println(i);
-         //  i= i+2;}
-
         for(i=1; i<2*n; i= i+2){
-            System.out.println(i);
+            System.out.print(i+",");
 
         }
     }
